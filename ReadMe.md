@@ -12,4 +12,7 @@
 
 # php artisan migrate
 
-## Tutorial Location Time = 10:10
+## Tutorial Location Time = 20:30
+
+LOGIN
+gknapp63@gmail.com/12345678
